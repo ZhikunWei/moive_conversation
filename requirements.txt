@@ -1,0 +1,7 @@
+nltk
+numpy>=1.13.3
+torch
+pytorch-transformers==1.2.0
+sklearn
+keras
+tensorflow
