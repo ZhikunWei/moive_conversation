@@ -4,7 +4,7 @@ This is a project for AI course in THU. It is a dialogue system in movie area. S
 # Author
 Chaoyu Guan, Zhikun Wei. 
 
-# Finish data
+# Finish date
 May 14th, 2020
 
 # Usage:
